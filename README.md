@@ -16,6 +16,9 @@ Key Insights
 Project Details
 This Power BI dashboard project involved leveraging advanced data visualization techniques to transform raw data into meaningful insights. It highlights my ability to create interactive and visually appealing dashboards that drive business decisions.
 
+Special thanks to Rishabh Mishra for their guidance and support.
+Learned the Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
 Features of the Dashboard
 Interactive Visualizations: Dynamic charts and graphs for exploring sales data.
 Data Analysis: Comprehensive analysis of sales performance, trends, and product success.
